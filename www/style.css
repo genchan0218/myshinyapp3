@@ -1,0 +1,70 @@
+textarea.form-control.shiny-bound-input{
+  display: block;
+  padding: 34px 6px 6px 6px;
+  font-size: 15px;
+  line-height: 1.42857143;
+  color: #32907c;
+    background-color: white;
+  background-image: none;
+  border: 1px solid white;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+}
+
+#country ~ .selectize-control .item{color:#32907c} .option:nth-child{color:#32907c}
+
+.modal-backdrop {
+
+   opacity:0.5 !important;
+}
+
+
+.modal-content {
+   background-color:#272c30;
+}
+
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:active {
+    color: #ffffff;
+   
+}
+
+div.datatables {
+    color: white;
+}
+.dataTables_length select {
+                           color: white;
+                           background-color: #0E334A
+                           }
+                           
+
+
+.dataTables_wrapper .dataTables_filter > label, .dataTables_wrapper .dataTables_filter > input {
+    color: #ffffff;
+}
+
+thead {color: #ffffff;background-color:#272c30;}
+tbody { color: black;background-color:#272c30;}
+
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing,.dataTables_wrapper .dataTables_paginate .paginate_button, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled {
+            color: #ffffff !important;
+}
+
+
+.dataTables_wrapper .dataTables_paginate  .paginate_button.previous {color: #ffffff !important;}
+.dataTables_wrapper .dataTables_paginate  .paginate_button.next {color: #ffffff !important;}
+.dataTables_wrapper .dataTables_paginate  .paginate_button.current {color: #ffffff !important;}
+.dataTables_wrapper .dataTables_paginate  .paginate_button.disable > active {color: #ffffff !important;}
+.dataTables_wrapper .dataTables_paginate .paginate_button > a{
+    color: #ffffff !important;
+}
+
+.dataTables_wrapper .dataTables_paginate  .paginate_button.hover{color: #ffffff !important;}
+
+.datatables html-widget html-widget-output shiny-bound-output{color: #ffffff;background-color:#272c30;}
+
+
+.dataTables_filter input {color: white;
+                          background-color:#272c30;
+                           }
